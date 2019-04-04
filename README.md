@@ -1,4 +1,5 @@
 # Algorithm
+[![xmind pic]](https://github.com/polly-culler/Algorithm/blob/master/Algorithm.png)
 ## 分治法
 ### 二分法（binSearch）
   1. 例：find 21  
