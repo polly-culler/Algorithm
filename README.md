@@ -10,4 +10,6 @@
   21 > mid 说明在4-5之间  
  **step3:** 取4-5之间的数,   
   find no.4 =21 success. :blush:  
-#### [code](https://github.com/polly-culler/Algorithm/blob/master/%E5%88%86%E6%B2%BB%E6%B3%95/%E4%BA%8C%E5%88%86%E6%B3%95/binSearch.c)    
+#### [code](https://github.com/polly-culler/Algorithm/blob/master/%E5%88%86%E6%B2%BB%E6%B3%95/%E4%BA%8C%E5%88%86%E6%B3%95/binSearch.c)  
+___ 
+### 快速查询
