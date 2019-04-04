@@ -9,5 +9,5 @@
   step2: 取1-5的中间数，即第三个数为mid = 19 
         21 > mid 说明在4-5之间
   step3: 取4-5之间的数，
-        find no.4 =21 success. blush: 
+        find no.4 =21 success. :blush: 
 #### code    
