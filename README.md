@@ -18,6 +18,14 @@ ___
 #### [code](https://github.com/polly-culler/Algorithm/blob/master/%E5%88%86%E6%B2%BB%E6%B3%95/%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F/quickSort.c)
 
 
+[========]
+
+## 贪心算法
+
+
+
+[========]
+
 ## 动态规划  
  1. 原理
 	将所有的解决方案全部求出来，然后会找到一个最优解，通过最优解然后回溯找回最优解选取的方式是什么。
