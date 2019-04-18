@@ -259,8 +259,9 @@ ___
 [简书链接](https://www.jianshu.com/p/31187617a7a0)
 
 
+**回溯法**
 
-![enter image description here](https://upload-images.jianshu.io/upload_images/6650019-4804508f7ebb3df5.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp)
+![回溯法排列树](https://upload-images.jianshu.io/upload_images/6650019-4804508f7ebb3df5.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp)
 
 设n=3，背包容量c=8；
 W=｛1，2，3｝ V={4，5，6}
